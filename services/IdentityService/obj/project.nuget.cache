@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFNrTWmY6OA=",
+  "success": true,
+  "projectFilePath": "/Users/gozdeaybey/banking-microservices/services/IdentityService/IdentityService.csproj",
+  "expectedPackageFiles": [
+    "/Users/gozdeaybey/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/gozdeaybey/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
